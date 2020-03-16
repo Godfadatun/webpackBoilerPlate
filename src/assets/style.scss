@@ -1,0 +1,14 @@
+$primary: rgb(22, 22, 233);
+$secondary: maroon;
+.component{
+    padding: 20px;
+    background-color: $primary;
+    color: white;
+    font-family: arial;
+    text-align: center;
+
+    h1{
+        color: $secondary;
+        text-transform: uppercase; 
+    }
+} 

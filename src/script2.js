@@ -1,0 +1,1 @@
+export var tester = 'God is great'
